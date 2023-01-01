@@ -2,15 +2,18 @@
 
 A new Flutter project.
 
-## Getting Started
+# My Goal  
 
-This project is a starting point for a Flutter application.
+In this project I havee dived into more Dart programming concepts and learned how to use open source Flutter packages. Now I am comfortable using Flutter packages and building repeated widgets.
 
-A few resources to get you started if this is your first Flutter project:
+# What I have created 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+I have made a music app that plays Xylophone sounds. For every Beethoven out there, this will let us unleash our musical talent where ever we are.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# What I have learned
+
+-How to incorporate open source libraries of code into my project using Flutter Packages.
+-How to play sound on both iOS and Android.
+-How to generate repeated user interface Widgets.
+-How to use Dart functions that can take input -arguments as well as return an output.
+-Dart arrow syntax for writing one line functions.
